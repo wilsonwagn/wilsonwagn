@@ -1,5 +1,5 @@
 # I'm Wilson Wagner! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
-Hello, welcome, I am currently an **Information Systems** student and web developer
+Hello, welcome. I'm a developer and analyst with a degree in **Information Systems** from the Federal University of Pernambuco.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonwagner/)](https://www.linkedin.com/in/wilsonwagner/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/wilsonwagn)](https://github.com/wilsonwagn)
